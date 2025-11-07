@@ -1,9 +1,9 @@
-#MERN App
+MERN App
 
--A simple full-stack project built using React (Frontend) and Node.js + Express (Backend).
+A simple full-stack project built using React (Frontend) and Node.js + Express (Backend).
 The app connects with the Fake Store APIand includes mock login, product listing, and product detail pages.
 
-#Features
+Features
 
 - Mock login with demo credentials
 - Product listing and detail pages
@@ -12,33 +12,33 @@ The app connects with the Fake Store APIand includes mock login, product listing
 - Separate frontend and backend setup
 - Beginner-friendly structure for learning full-stack concepts
 
-#Tech Stack
+Tech Stack
 
 -Node.js + Express (Backend)
 -React + Vite (Frontend)
 -Fake Store API (Data source)
 
-#Usage
+Usage
 
--1.Run the backend:
+1.Run the backend:
  cd backend
  npm install
  npm run dev
 
--Runs at: [http://localhost:5000](http://localhost:5000)
+Runs at: [http://localhost:5000](http://localhost:5000)
 
--2.Run the frontend:
+2.Run the frontend:
  cd frontend
  npm install
  npm run dev
 
- -Runs at: [http://localhost:5173](http://localhost:5173)
+ Runs at: [http://localhost:5173](http://localhost:5173)
 
- -3.Login using:
+ 3.Login using:
   -Email: demo@gmail.com
   -Password:0987
 
-#Screenshots
+Screenshots
 
 -[Login Page](./Screenshots/Login.png)
 -[Product List](./Screenshots/Productlist.png)
