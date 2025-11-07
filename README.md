@@ -15,7 +15,9 @@ Features
 Tech Stack
 
 -Node.js + Express (Backend)
+
 -React + Vite (Frontend)
+
 -Fake Store API (Data source)
 
 Usage
